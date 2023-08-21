@@ -1,5 +1,5 @@
 {
-	"id": "407e2bc2abe856d656a7c56b79801f32",
+	"id": "354e1d315d6860c4c1cc23f1c9d40c07",
 	"_format": "hh-sol-build-info-1",
 	"solcVersion": "0.8.19",
 	"solcLongVersion": "0.8.19+commit.7dd6d404",
@@ -7,7 +7,7 @@
 		"language": "Solidity",
 		"sources": {
 			"SimpleStorage.sol": {
-				"content": "//SPDX-License-Identifier: UNLICENSED\r\npragma solidity 0.8.19;\r\n\r\n\r\n"
+				"content": "//SPDX-License-Identifier: MIT\r\npragma solidity 0.8.19;\r\n\r\n\r\n"
 			}
 		},
 		"settings": {
@@ -44,7 +44,7 @@
 					"absolutePath": "SimpleStorage.sol",
 					"exportedSymbols": {},
 					"id": 2,
-					"license": "UNLICENSED",
+					"license": "MIT",
 					"nodeType": "SourceUnit",
 					"nodes": [
 						{
@@ -55,10 +55,10 @@
 								".19"
 							],
 							"nodeType": "PragmaDirective",
-							"src": "39:23:0"
+							"src": "32:23:0"
 						}
 					],
-					"src": "39:29:0"
+					"src": "32:29:0"
 				},
 				"id": 0
 			}
